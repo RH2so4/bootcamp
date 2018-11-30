@@ -17,3 +17,6 @@ sourcetreeで以下のコマンドの使い方
 [git reset --soft]
     対象のコミットを右クリック(ctrl + Lclick)する。
     このコミットまで、[branch]を戻す。　その後、オプションで[soft]を指定する
+
+[git merge --no-ff]
+    上部メニューから、[マージ]を選択し、「"fast-forward"可能でも新たなコミットを作成する」オプションにチェックを入れる
