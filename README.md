@@ -6,3 +6,6 @@ sourcetreeで以下のコマンドの使い方
 [git reset --hard]
     対象のコミットを右クリック(ctrl + Lclick)する。
     このコミットまで、[branch]を戻す。　その後、オプションで[soft/mixd/hard]を指定する
+
+[git pull --rebase]
+    上部メニューから、[プル]を選択し、「マージではなく、リベースする」のオプションにチェックを入れる
