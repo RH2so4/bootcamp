@@ -13,3 +13,7 @@ sourcetreeで以下のコマンドの使い方
 [git reset --mixed]
     対象のコミットを右クリック(ctrl + Lclick)する。
     このコミットまで、[branch]を戻す。　その後、オプションで[mixed]を指定する
+
+[git reset --soft]
+    対象のコミットを右クリック(ctrl + Lclick)する。
+    このコミットまで、[branch]を戻す。　その後、オプションで[soft]を指定する
